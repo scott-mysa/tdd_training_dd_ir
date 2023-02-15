@@ -48,3 +48,10 @@ Game Rules:
 	Price per cup: 0.50c (-0.125)
 	Max # of customers = ((25 * 1.7) - (25 * 1.7) * -0.125
 	* 38 customers * 
+<<<<<<< HEAD
+=======
+
+
+
+
+>>>>>>> 512c61a325bbe41135a54c91af0a460ac48f9f62
